@@ -1,0 +1,16 @@
+  #P, #N, #r, #D
+  {
+      padding-left: 10em;
+  }
+  #BL
+  {
+    margin-LEFT: 10em;
+  }
+  form
+  {
+    margin-top: 2em;
+  }
+  #last_name, #first_name, #Birthday
+  {
+    width: 10EM;
+  }

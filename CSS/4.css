@@ -1,0 +1,34 @@
+body
+{
+  color: black;
+  background-attachment: fixed; 
+}
+  #P, #N, #r, #D
+  {
+      padding-left: 10em;
+  }
+  #BL
+  {
+    margin-LEFT: 10em;
+  }
+  form
+  {
+    margin-top: 2em;
+  }
+  #last_name, #first_name, #Birthday
+  {
+    width: 10EM;
+  }
+  #ultimo{
+      background: lightgreen;
+      text-align: center;
+  }
+  #d{
+      border: 2px solid gray;
+      height: 25em;
+      text-align: justify;
+  }
+
+  #colr{  background: gray;
+  }
+  

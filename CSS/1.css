@@ -1,0 +1,21 @@
+div{
+    border: 4px solid white;
+}
+.row{
+    height: 7em;
+}
+#fila1{           
+    background: blue;
+}
+#fila2{           
+    background: yellow;
+}
+#f3-1{           
+    background: green;
+}
+#f3-2{           
+    background: lightgreen;
+}
+#fila4{           
+    background: orange;
+}

@@ -1,0 +1,28 @@
+.row{
+    background: lightgreen;
+}
+#aside{
+    border: 2px solid black;
+}
+#header{
+    border: 2px solid black;
+}
+#section{
+    height: 5em;
+    padding: 5em 0em 0em 0em;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+#section1{
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+#blanco{
+    background: white;
+    height: 3em;
+    
+}
+p{
+    text-align: center;
+    padding-top: 1em;
+}
